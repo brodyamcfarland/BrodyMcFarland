@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BrodyMcFarland/static/css/main.f69d9209.css",
+    "main.js": "/BrodyMcFarland/static/js/main.57d17731.js",
+    "static/media/PhotoCode.jpg": "/BrodyMcFarland/static/media/PhotoCode.a2e3ef5fef2cddde8f27.jpg",
+    "static/media/EthereumPic.jpg": "/BrodyMcFarland/static/media/EthereumPic.9f13ce04c9acbf48d2c1.jpg",
+    "static/media/CV.pdf": "/BrodyMcFarland/static/media/CV.04f8e0b56dd21f16525b.pdf",
+    "static/media/ME.png": "/BrodyMcFarland/static/media/ME.26e56690131b6afaf9bb.png",
+    "static/media/codesnippet.jpg": "/BrodyMcFarland/static/media/codesnippet.d3449a9c6356a3bae9a4.jpg",
+    "static/media/me.svg": "/BrodyMcFarland/static/media/me.c7dc2b641f32384d893b1b120d4a7e69.svg",
+    "index.html": "/BrodyMcFarland/index.html",
+    "main.f69d9209.css.map": "/BrodyMcFarland/static/css/main.f69d9209.css.map",
+    "main.57d17731.js.map": "/BrodyMcFarland/static/js/main.57d17731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69d9209.css",
+    "static/js/main.57d17731.js"
+  ]
+}
