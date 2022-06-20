@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/BrodyMcFarland/static/css/main.f69d9209.css",
-    "main.js": "/BrodyMcFarland/static/js/main.57d17731.js",
+    "main.js": "/BrodyMcFarland/static/js/main.4e637268.js",
     "static/media/PhotoCode.jpg": "/BrodyMcFarland/static/media/PhotoCode.a2e3ef5fef2cddde8f27.jpg",
     "static/media/EthereumPic.jpg": "/BrodyMcFarland/static/media/EthereumPic.9f13ce04c9acbf48d2c1.jpg",
-    "static/media/CV.pdf": "/BrodyMcFarland/static/media/CV.04f8e0b56dd21f16525b.pdf",
     "static/media/ME.png": "/BrodyMcFarland/static/media/ME.26e56690131b6afaf9bb.png",
+    "static/media/offgrid.JPG": "/BrodyMcFarland/static/media/offgrid.40e0f04ea1a6c62a759a.JPG",
     "static/media/codesnippet.jpg": "/BrodyMcFarland/static/media/codesnippet.d3449a9c6356a3bae9a4.jpg",
-    "static/media/me.svg": "/BrodyMcFarland/static/media/me.c7dc2b641f32384d893b1b120d4a7e69.svg",
+    "static/media/cybropunks.JPG": "/BrodyMcFarland/static/media/cybropunks.f36214e9464ede6116f6.JPG",
+    "static/media/BlockPulse.JPG": "/BrodyMcFarland/static/media/BlockPulse.b217515b1c458bebba33.JPG",
+    "static/media/CS_Resume_Brody_McFarland.pdf": "/BrodyMcFarland/static/media/CS_Resume_Brody_McFarland.e2e3fd41282666eb77b9.pdf",
+    "static/media/TSTracker.JPG": "/BrodyMcFarland/static/media/TSTracker.41ba56ccd1f40729e29a.JPG",
     "index.html": "/BrodyMcFarland/index.html",
     "main.f69d9209.css.map": "/BrodyMcFarland/static/css/main.f69d9209.css.map",
-    "main.57d17731.js.map": "/BrodyMcFarland/static/js/main.57d17731.js.map"
+    "main.4e637268.js.map": "/BrodyMcFarland/static/js/main.4e637268.js.map"
   },
   "entrypoints": [
     "static/css/main.f69d9209.css",
-    "static/js/main.57d17731.js"
+    "static/js/main.4e637268.js"
   ]
 }
