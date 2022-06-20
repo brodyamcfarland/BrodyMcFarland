@@ -49,7 +49,7 @@ const Experience = () => {
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>Python</h4>
+                <h4>TypeScript</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>

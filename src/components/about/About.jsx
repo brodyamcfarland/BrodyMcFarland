@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/me.svg';
+import ME from '../../assets/ME.png';
 import {BiAward} from 'react-icons/bi';
 import {RiWindowFill} from 'react-icons/ri';
 import {FaEthereum} from 'react-icons/fa';
@@ -31,7 +31,7 @@ const About = () => {
             <article className='about__card'>
               <RiWindowFill className='about__icon'/>
               <h5>Full-stack</h5>
-              <small>HTML, CSS, JS, Python, React.js, Node.js, Solidity</small>
+              <small>HTML, CSS, JS, Python, React.js, Node.js, Solidity, TypeScript</small>
             </article>
 
             <article className='about__card'>
@@ -42,7 +42,7 @@ const About = () => {
             </article>
           </div>
             <p>
-              I specialize in front-end applications and EVM-compatible smart-contract development. I have a background in Real Estate, Loan Servicing, Auction Platforms, Music Production and have been self-teaching myself software development in recent years.
+              I specialize in front-end applications and EVM-compatible smart-contract development. I have a background in Real Estate, Loan Servicing, Auction Platforms, Music Production, and have been self-teaching myself software development in recent years.<br/>My hobbies include skateboarding, snowboarding, hiking, and music production.
             </p>
         
           <a href="#contact" className='btn btn-primary'>Contact</a>
