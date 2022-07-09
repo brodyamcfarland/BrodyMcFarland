@@ -1,6 +1,5 @@
 .about__container {
-    display: grid;
-    grid-template-columns: 35% 50%;
+    display: flex;
     gap: 15%
 }
 
@@ -62,7 +61,11 @@
 
 .about__content p {
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    place-items: center;
+}
+
+.about__shpiel {
+    color: white;
 }
 
 /* ========== MEDIA QUERY (MEDIUM DEVICES) =========== */
