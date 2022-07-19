@@ -37,7 +37,8 @@ const About = () => {
             </article>
           </div>
             <p className='about__shpiel'>
-              I specialize in Web3 decentrailized applications and EVM-compatible smart-contract development. I graduated with a Bachelors Degree in Business, but have been learning to code on the side for many years, which has slowly become a passion.<br/><br/>
+              I specialize in Web3 decentrailized applications and EVM-compatible smart-contract development.
+              I graduated with a Bachelors Degree in Business, but have been learning to code on the side for many years, which has slowly become a passion.<br/><br/>
               My hobbies include skateboarding, snowboarding, golfing, and music production.
             </p>
         </div>
