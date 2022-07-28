@@ -5,7 +5,7 @@ import IMG2 from '../../assets/SoulboundGif.gif';
 import IMG3 from '../../assets/OffGridGif.gif';
 import IMG4 from '../../assets/CybroPunkGif.gif';
 import IMG5 from '../../assets/BlockPulse.JPG';
-import IMG6 from '../../assets/TSTracker.JPG';
+import IMG6 from '../../assets/EASGif.gif';
 
 // CHANGE IMAGES ABOVE FOR PRODUCTION
 // CHANGE GITHUB LINKS WHEN NEEDED
@@ -25,6 +25,13 @@ const data = [
     demo: 'https://brodyamcfarland.github.io/Soulbound/'
   },
   {
+    id: 5,
+    image: IMG6,
+    title: 'Ethereum Ad Service - Ethereum & IPFS Advertisments',
+    github: 'https://github.com/brodyamcfarland/EthereumAdService/',
+    demo: 'https://brodyamcfarland.github.io/EthereumAdService/'
+  },
+  {
     id: 2,
     image: IMG4,
     title: 'CYBROPUNKS - NFT Minting Website',
@@ -37,13 +44,6 @@ const data = [
     title: 'BLOCK PULSE - Cypto API Project',
     github: 'https://github.com/brodyamcfarland/BlockPulse',
     demo: 'https://brodyamcfarland.github.io/BlockPulse/'
-  },
-  {
-    id: 5,
-    image: IMG6,
-    title: 'TypeScript Tracker',
-    github: 'https://github.com/brodyamcfarland/TS-Tracker',
-    demo: 'https://brodyamcfarland.github.io/TS-Tracker/'
   },
   {
     id: 6,
