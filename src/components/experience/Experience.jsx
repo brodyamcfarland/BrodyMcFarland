@@ -14,13 +14,7 @@ const Experience = () => {
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <HiOutlineCheckCircle className='experience__details-icon'/>
-              <div>
-                <h4>CSS</h4>
+                <h4>Typescript</h4>
               </div>
             </article>
             <article className='experience__details'>
@@ -44,20 +38,20 @@ const Experience = () => {
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>TypeScript</h4>
+                <h4>React Native</h4>
               </div>
             </article>
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>Tailwind</h4>
+                <h4>NextJS</h4>
               </div>
             </article>
           </div>
         </div>
 {/* END OF FRONTEND */}
         <div className="experience__backend">
-        <h3>Tools</h3>
+        <h3>Tools & DB</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
@@ -74,7 +68,7 @@ const Experience = () => {
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>VS Code</h4>
+                <h4>thirdweb</h4>
               </div>
             </article>
             <article className='experience__details'>
@@ -92,7 +86,7 @@ const Experience = () => {
             <article className='experience__details'>
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
-                <h4>Remix</h4>
+                <h4>Remix IDE</h4>
               </div>
             </article>
             <article className='experience__details'>
@@ -105,6 +99,30 @@ const Experience = () => {
               <HiOutlineCheckCircle className='experience__details-icon'/>
               <div>
                 <h4>Firebase & MongoDB</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <HiOutlineCheckCircle className='experience__details-icon'/>
+              <div>
+                <h4>SQLite & PostgresQL</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <HiOutlineCheckCircle className='experience__details-icon'/>
+              <div>
+                <h4>Prisma ORM</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <HiOutlineCheckCircle className='experience__details-icon'/>
+              <div>
+                <h4>Google O-Auth</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <HiOutlineCheckCircle className='experience__details-icon'/>
+              <div>
+                <h4>JWT Authentication</h4>
               </div>
             </article>
           </div>
